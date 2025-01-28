@@ -1,0 +1,50 @@
+body{
+    background-color:white;
+}
+.plainshirts{
+    overflow: auto;
+    display: flex;
+    gap: 20px;
+}
+.h3{
+    color: black;
+    font-family: cursive;
+    width: 20px;
+}
+.h3:hover{
+    color: orange;
+}
+.h1{
+    color: black;
+    font-family: cursive;
+    width: 600px;
+    filter: drop-shadow(2px 2px 2px gray);
+}
+.plain{
+    background-color: black;
+    width: 150px;
+    color: white;
+    font-family: cursive;
+    border-radius: 20px;
+}
+.plain:hover{
+    color: red;
+}
+.img1{
+    width: 200px;
+    height: 300px;
+    background-color: black;
+    border-radius: 20px;
+
+}
+div{
+    box-shadow: 2px 2px 2px ,orange;
+}
+.img1:hover{
+    background-color: gray;
+    
+}
+.h5{
+    font-family: cursive;
+
+}
